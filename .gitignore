@@ -1,0 +1,8 @@
+/build
+/lake-packages/*
+.aux
+.blg
+.bbl
+.bib
+.log
+.tex
